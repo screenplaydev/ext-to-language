@@ -18,6 +18,7 @@
       "baseUrl": ".",
       "rootDir": ".",
       "experimentalDecorators": true,
+      "declaration": true,
       "incremental": true
     },
     "lib": ["es2015"],
