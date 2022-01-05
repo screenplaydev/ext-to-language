@@ -1,6 +1,7 @@
 /*
  * A living list of file extensions mapped to languages
  * Languages that are not supported by highlightjs are resolved to txt.
+ * List of languages supported by highlightjs: https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md
  */
 export const extToLanguageMapping: Record<string, string> = {
     "1": "txt",
