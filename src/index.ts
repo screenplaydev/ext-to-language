@@ -79,7 +79,7 @@ export const extToLanguageMapping: Record<string, string> = {
     h: "objectivec",
     idc: "C",
     w: "C",
-    cs: "Smalltalk",
+    cs: "C#",
     cake: "CoffeeScript",
     cshtml: "C#",
     csx: "C#",
